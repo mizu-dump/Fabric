@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/8mmp5cKfdd)
 
 Fabric is a modular, lightweight mod loader for Minecraft
-on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) devices.
+on your Android and iOS devices.
 
 Most **Mods** will also require you to install 
 [Fabric API](https://test) into the mods folder.
@@ -28,8 +28,7 @@ Most **Mods** will also require you to install
 
 ## Introduction
 
-* Fabric is a Minecraft: Java Edition launcher for PC and MacOS based on [Fabric](https://fabricmc.net/)
-* This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.21 snapshots (including Combat Test versions)
+* Fabric is a modular, lightweight mod loader for Minecraft based on [Fabric](https://fabricmc.net/)
 * Modding via **Forge** and **Optifine** are also supported.
 * This repository contains source code for Android. check out [Fabric Android](https://github.com/PojavLauncherTeam/PojavLauncher_iOS).
 
