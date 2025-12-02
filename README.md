@@ -5,7 +5,8 @@
 [![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/PojavLauncherTeam/PojavLauncher)](https://github.com/mizu-dump/mz-fabricmc.github.io/actions)
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/8mmp5cKfdd)
 
-Fabric is a launcher that allows you to play Minecraft: Java Edition on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) devices.
+Fabric is a modular, lightweight mod loader for Minecraft :
+on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) devices.
 
 For more details, check out our [wiki](https://pojavlauncher.app/)!
 
