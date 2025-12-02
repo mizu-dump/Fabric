@@ -8,7 +8,8 @@
 Fabric is a modular, lightweight mod loader for Minecraft :
 on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) devices.
 
-Most mods will also require you to install [Fabric API](test) into the mods folder.
+Most **Mods** will also require you to install 
+[Fabric API](https://test) into the mods folder.
 
 ## Table of Contents
 
