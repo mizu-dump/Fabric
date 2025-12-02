@@ -1,4 +1,4 @@
-<h1 align="center">Fabric</h1>
+<h1 align="center">Fabric : MCPE</h1>
 
 <img src="https://raw.githubusercontent.com/mizu-dump/mz-fabricmc.github.io/refs/heads/main/images/qt87ws.webp" align="left" width="130" height="150" alt="PojavLauncher logo">
 
@@ -65,11 +65,11 @@ See our [Issue Tracker](https://github.com/mizu-dump/mz-fabricmc.github.io/issue
 
 ## FAQ
 
-See our [WIKI](https://pojavlauncherteam.github.io/) for more information.
+See our [WIKI](https://wiki.fabricmc.net/start) for more information.
 
 ## Contributing
 
-Contributions are welcome! We welcome any type of contribution, not only code. For example, you can help improve the [wiki](https://pojavlauncherteam.github.io/), contribute to the [translations](https://crowdin.com/project/pojavlauncher), or submit bug reports and feature requests.
+Contributions are welcome! We welcome any type of contribution, not only code. For example, you can help improve the [WIKI](https://wiki.fabricmc.net/start), contribute to the [translations](https://wiki.fabricmc.net/start), or submit bug reports and feature requests.
 
 Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it.
 
